@@ -8,6 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/quentinR/Portfolio.git"
   },
+  "engines": {
+    "node": "9.11.1",
+    "npm": "5.6.0"
+  },
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
