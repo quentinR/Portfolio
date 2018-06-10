@@ -12,13 +12,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "<your-tracking-id-here>",
+        trackingId: "UA-120620645-1",
         head: true
       }
     },
   ],
   siteMetadata: {
-    title: 'Quentin Ribierre',
+    title: 'Quentin Ribierre | iOS Engineer',
     description: 'Engineer focused on iOS and mobile',
     keywords: 'ios engineer, product engineer, portfolio, personal website',
     url: 'https://www.quentinribierre.com'
