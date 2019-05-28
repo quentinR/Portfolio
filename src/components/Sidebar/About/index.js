@@ -9,7 +9,7 @@ class About extends Component {
         <div className="image">
         </div>
         <div className="bio">
-          iOS Engineer, technology enthusiast, and freeskier.
+          Engineer, technology enthusiast, and freeskier based in Denver, CO.
         </div>
       </div>
     )

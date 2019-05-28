@@ -9,6 +9,11 @@ $aside-width: 35%;
 .main {
   margin: 0 auto;
 
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
   h3 {
     font-size: 3.4rem;
     line-height: 1.6;

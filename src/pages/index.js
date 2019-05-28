@@ -13,8 +13,8 @@ const IndexPage = () => (
         </h5>
 
         <h3 className="bold">
-          iOS engineer building innovative and well-received apps 
-          for brands like StubHub and Saks Fifth Avenue.
+          Software Engineer at <a href="https://www.helix.com/">Helix</a>, 
+          previously building well-received apps for brands like StubHub and Saks Fifth Avenue.
         </h3>
 
         <ExperienceSection />
