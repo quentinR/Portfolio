@@ -18,9 +18,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Quentin Ribierre | iOS Engineer',
-    description: 'Engineer focused on iOS and mobile',
-    keywords: 'ios engineer, product engineer, portfolio, personal website',
+    title: 'Quentin Ribierre | Software Engineer',
+    description: 'Software Engineer focused on iOS based in Denver, CO',
+    keywords: 'software engineer, ios engineer, product engineer, portfolio, personal website',
     url: 'https://www.quentinribierre.com'
   }
 };
